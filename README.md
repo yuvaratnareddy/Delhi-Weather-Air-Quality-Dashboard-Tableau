@@ -2,7 +2,6 @@
 
 A Tableau dashboard that visualizes Delhi’s air quality and weather patterns using an Excel dataset.
 
----
 
 ## 📌 Project Summary
 
